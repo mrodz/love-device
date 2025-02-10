@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"sleep.h": "c",
+		"stdlib.h": "c",
+		"xosc.h": "c",
+		"watchdog.h": "c"
+	}
+}
